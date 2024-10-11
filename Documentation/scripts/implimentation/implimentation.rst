@@ -861,7 +861,7 @@ Implimentation d'un CNN simple
     `Find the link to github repository <https://github.com/imadmaalouf02/Convolutional-Neural-Network>`__
 
 
-    `Link to Colab notebook <https://colab.research.google.com/github/imadmlf/Convolutional-Neural-Network/blob/main/CNN_simple_data.ipynb>`__
+    `Link to Colab notebook <https://colab.research.google.com/github/imadmaalouf02/Convolutional-Neural-Network/blob/main/CNN_simple_data.ipynb>`__
 
 
 
