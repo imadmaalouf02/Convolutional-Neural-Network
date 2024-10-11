@@ -32,6 +32,8 @@ Qu'est-ce qu'un CNN ?
       d'images. Les CNN sont utilisés dans divers scénarios pratiques, tels que
       les véhicules autonomes, les systèmes de caméras de sécurité et autres.
 
+
+
    </i></span></p>
    
 .. raw:: html
@@ -51,6 +53,7 @@ L'importance des CNN
    </i></span></p>
 
 comme le souligne ci-dessous :
+
 
 
     * *Les CNN se distinguent des algorithmes classiques d'apprentissage automatique tels que les SVM et les arbres de décision par leur capacité à extraire automatiquement des caractéristiques à grande échelle, évitant ainsi le besoin d'ingénierie manuelle des caractéristiques et améliorant ainsi l'efficacité.*
