@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Convolutional Neural Network'
+project = 'ConvolutionalNeural Network'
 copyright = '2024, GIIADS, CNN by Maalouf IMAD '
 author = 'Convolutional-Neural-Network'
 
