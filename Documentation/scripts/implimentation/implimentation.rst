@@ -64,7 +64,7 @@ Implimentation d'un CNN simple
 
 .. code-block:: python
       
-   url_pikachu = r'https://github.com/imadmlf/Convolutional-Neural-Network/blob/main/CNN-Implimentation/%234%20-%20CNN/pikachu.png?raw=true'
+   url_pikachu = r'https://github.com/imadmaalouf02/Convolutional-Neural-Network/blob/main/CNN-Implimentation/%234%20-%20CNN/pikachu.png?raw=true'
    resp = requests.get(url_pikachu, stream=True).raw
    image_array_pikachu = np.asarray(bytearray(resp.read()), dtype="uint8")
    print(f'Shape of the image {image_array_pikachu.shape}')
@@ -87,7 +87,7 @@ Implimentation d'un CNN simple
 
 .. code-block:: python
 
-   url_rondoudou = r'https://github.com/imadmlf/Convolutional-Neural-Network/blob/main/CNN-Implimentation/%234%20-%20CNN/rondoudou.png?raw=true'
+   url_rondoudou = r'https://github.com/imadmaalouf02/Convolutional-Neural-Network/blob/main/CNN-Implimentation/%234%20-%20CNN/rondoudou.png?raw=true'
    resp = requests.get(url_rondoudou, stream=True).raw
    image_array_rondoudou = np.asarray(bytearray(resp.read()), dtype="uint8")
    print(f'Shape of the image {image_array_rondoudou.shape}')
@@ -172,7 +172,7 @@ Implimentation d'un CNN simple
 
 .. code-block:: python
 
-   url_heart = r'https://github.com/imadmlf/Convolutional-Neural-Network/blob/main/CNN-Implimentation/%234%20-%20CNN/hearth.jpg?raw=true'
+   url_heart = r'https://github.com/imadmaalouf02/Convolutional-Neural-Network/blob/main/CNN-Implimentation/%234%20-%20CNN/hearth.jpg?raw=true'
    resp = requests.get(url_heart, stream=True).raw
    image_array_heart = np.asarray(bytearray(resp.read()), dtype="uint8")
    print(f'Shape of the image {image_array_heart.shape}')
@@ -237,7 +237,7 @@ Implimentation d'un CNN simple
 
 .. code-block:: python
 
-   url_carré = r'https://github.com/imadmlf/Convolutional-Neural-Network/blob/main/CNN-Implimentation/%234%20-%20CNN/carre-noir.png/?raw=true'
+   url_carré = r'https://github.com/imadmaalouf02/Convolutional-Neural-Network/blob/main/CNN-Implimentation/%234%20-%20CNN/carre-noir.png/?raw=true'
    resp = requests.get(url_carré, stream=True).raw
    image_array_carré = np.asarray(bytearray(resp.read()), dtype="uint8")
    print(f'Shape of the image {image_array_carré.shape}')
@@ -544,7 +544,7 @@ Implimentation d'un CNN simple
    import os
    data_dir = tf.keras.utils.get_file(
       "dataset1.zip",
-      "https://github.com/imadmlf/Convolutional-Neural-Network/blob/main/CNN-Implimentation/%234%20-%20CNN/dataset1.zip?raw=true",
+      "https://github.com/imadmaalouf02/Convolutional-Neural-Network/blob/main/CNN-Implimentation/%234%20-%20CNN/dataset1.zip?raw=true",
       extract=False)
 
    import zipfile
@@ -858,7 +858,7 @@ Implimentation d'un CNN simple
    .. container:: blue-box
 
 
-    `Find the link to github repository <https://github.com/imadmlf/Convolutional-Neural-Network>`__
+    `Find the link to github repository <https://github.com/imadmaalouf02/Convolutional-Neural-Network>`__
 
 
     `Link to Colab notebook <https://colab.research.google.com/github/imadmlf/Convolutional-Neural-Network/blob/main/CNN_simple_data.ipynb>`__
